@@ -4,5 +4,5 @@ spring:
       connection-timeout: 20000
       maximum-poo-size: 5
     password: udemy
-    url: jdbc:postgresql://localhost:5432/companies
+    url: jdbc:postgresql://localhost:5432/companies-prod
     username: debuggeandoideas-prod
